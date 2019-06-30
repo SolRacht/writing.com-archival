@@ -1,4 +1,7 @@
 # writing.com-archival
+
+# No longer supported: see https://github.com/SolRacht/WritingComDownloader
+
 This is a Python3 utility for archiving interactive stories from [writing.com](http://www.writing.com/).
 
 Archiving a story will download every chapter from that story into `./archive/<story_id>/` as a set of browsable html files which you can open in your browser. Updating a story downloads any new chapters into the archive.
